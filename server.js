@@ -23,7 +23,8 @@ app.use(express.static(__dirname + '/public'));
 
 app.get('/', function (req, res) {
   res.render('index', {
-    title: 'My Blog comment example'
+    title: 'My Blog comment example',
+    comments: [{name: 'Bob', comment: 'Hello world'}, {name: "alex", comment: "some more comments"}]
   });
 })
  

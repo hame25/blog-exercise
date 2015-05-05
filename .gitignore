@@ -40,7 +40,7 @@ npm-debug.log
 
 # directory where files are output running
 # locally for development
-/public
+#/public
 
 # directory where files are output for build
 /dist
