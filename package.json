@@ -1,0 +1,17 @@
+{
+  "name": "blogExercise",
+  "version": "0.0.1",
+  "description": "Blog exercise in react",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {},
+  "author": "Alex",
+  "license": "none",
+  "dependencies": {
+    "babel": "^5.2.15",
+    "express": "^4.12.3",
+    "react": "^0.12.2",
+    "react-engine": "^1.4.0"
+  },
+  "devDependencies": {}
+}
